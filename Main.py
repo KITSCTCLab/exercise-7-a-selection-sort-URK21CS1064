@@ -1,7 +1,6 @@
 from typing import List
 
 def selectionSort(array, size) -> List[int]:
-  # Write your code here
   for index in range(size):
     small_index = index
     for jindex in range(index+1, size):
@@ -11,7 +10,6 @@ def selectionSort(array, size) -> List[int]:
     
   return array
 
-# Do not change the following code
 input_data = input()
 data = []
 for item in input_data.split(', '):
