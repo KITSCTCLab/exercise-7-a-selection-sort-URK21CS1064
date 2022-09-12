@@ -6,6 +6,7 @@ def selectionSort(array, size) -> List[int]:
   how are you 
 i am fine
 how are you
+  i am also fine
 # Do not change the following code
 input_data = input()
 data = []
