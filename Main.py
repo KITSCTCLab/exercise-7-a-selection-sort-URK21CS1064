@@ -8,7 +8,7 @@ def selectionSort(array, size) -> List[int]:
         small_index = jindex
     array[small_index],array[index] = array[index], array[small_index]
     
-  return array
+ # return array
 
 input_data = input()
 data = []
