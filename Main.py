@@ -2,7 +2,6 @@ from typing import List
 
 def selectionSort(array, size) -> List[int]:
   # Write your code here
-  poda
 # Do not change the following code
 input_data = input()
 data = []
