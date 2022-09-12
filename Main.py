@@ -4,6 +4,8 @@ def selectionSort(array, size) -> List[int]:
   # Write your code here
   hi hellow 
   how are you 
+i am fine
+how are you
 # Do not change the following code
 input_data = input()
 data = []
